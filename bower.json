@@ -1,0 +1,19 @@
+{
+  "name": "famos-file-manager",
+  "homepage": "https://github.com/thesourorange/xray-analyzer",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jquery.cookie": "1.4.1",
+    "font-awesome": "^4.7.0"
+  }
+}

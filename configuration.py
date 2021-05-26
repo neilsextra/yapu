@@ -1,0 +1,5 @@
+DEBUG_FILE = 'debug.log'
+STORAGE_URL = 'https://tsostorage01.blob.core.windows.net/'
+STORAGE_CONTAINER = 'receipts'
+STORAGE_ACCOUNT = 'tsostorage01'
+POST_URL = 'https://tso-forms-recognizer.cognitiveservices.azure.com/'
