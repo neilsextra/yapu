@@ -3,4 +3,4 @@ This is a Data Profiling Tool develoepd in Python it currently only works with f
 
 ### Notes
 
-This takes advantage of the excellent profiling tool - pandas-profiling.  Create a storage account and specify V2 with a heirarchial file system.  Generate a SAS token and select the file that requires profiling.
+This takes advantage of the excellent profiling tool - pandas-profiling.  Create a storage account and specify V2 with a heirarchial file system turned on.  Generate a SAS token and select the file that requires profiling.
